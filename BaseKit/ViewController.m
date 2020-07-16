@@ -33,6 +33,8 @@
     //好好测测吧
     //怎么会一直这样子能
     //珍请
+    //怎么会这样啊 哈哈哈
+    
     // Do any additional setup after loading the view.
 //    UIButton *btn = [[UIButton alloc]initWithFrame:CGRectMake(20, 100, 100, 100)];
 //    [self.view addSubview:btn];
