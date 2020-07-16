@@ -30,6 +30,7 @@
         [list addObject:nav];
     }
     self.viewControllers = list;
+    //好好测测吧
     // Do any additional setup after loading the view.
 //    UIButton *btn = [[UIButton alloc]initWithFrame:CGRectMake(20, 100, 100, 100)];
 //    [self.view addSubview:btn];
