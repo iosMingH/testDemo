@@ -31,6 +31,8 @@
     }
     self.viewControllers = list;
     //好好测测吧
+    //怎么会一直这样子能
+    //珍请
     // Do any additional setup after loading the view.
 //    UIButton *btn = [[UIButton alloc]initWithFrame:CGRectMake(20, 100, 100, 100)];
 //    [self.view addSubview:btn];
